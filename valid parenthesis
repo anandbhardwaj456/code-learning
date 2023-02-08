@@ -1,5 +1,5 @@
 
-# VALID PARANTHESiS
+# VALID PARANTHESIS
 class Solution(object):
     def isValid(self, s):
         """
